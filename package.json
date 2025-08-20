@@ -1,14 +1,14 @@
 {
-  "name": "@jpavel/UZIP-esm",
+  "name": "@jpavel/uzip-esm",
   "version": "1.0.0",
   "description": "An ESM build of Photopea's UZIP.js",
-  "homepage": "https://github.com/jessepav/UZIP-esm",
+  "homepage": "https://github.com/jessepav/uzip-esm",
   "bugs": {
-    "url": "https://github.com/jessepav/UZIP-esm/issues"
+    "url": "https://github.com/jessepav/uzip-esm/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jessepav/UZIP-esm.git"
+    "url": "git+https://github.com/jessepav/uzip-esm.git"
   },
   "license": "MIT",
   "author": "Ivan Kutskir",
