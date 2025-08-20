@@ -1,6 +1,6 @@
 {
   "name": "@jpavel/uzip-esm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ESM build of Photopea's UZIP.js",
   "homepage": "https://github.com/jessepav/uzip-esm",
   "bugs": {
