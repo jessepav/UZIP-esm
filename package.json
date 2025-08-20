@@ -1,0 +1,19 @@
+{
+  "name": "@jpavel/uzip-esm",
+  "version": "1.0.0",
+  "description": "An ESM build of Photopea's UZIP.js",
+  "homepage": "https://github.com/jessepav/UZIP-esm",
+  "bugs": {
+    "url": "https://github.com/jessepav/UZIP-esm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessepav/UZIP-esm.git"
+  },
+  "license": "MIT",
+  "author": "Ivan Kutskir",
+  "type": "module",
+  "main": "UZIP.mjs",
+  "keywords": ["zip"],
+  "files": ["README.md", "package.json", "UZIP.mjs"]
+}
